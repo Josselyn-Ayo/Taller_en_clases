@@ -81,8 +81,11 @@ Ambos dispositivos deben estar en la misma red.
 
 ## 📸 Evidencias
 <img width="734" height="499" alt="image" src="https://github.com/user-attachments/assets/377e8a01-8c76-4f88-b87f-78561979f607" />
+---
 <img width="924" height="590" alt="image" src="https://github.com/user-attachments/assets/aaef7d3c-68fa-4ea6-aede-7f5082ed3175" />
+---
 <img width="887" height="606" alt="image" src="https://github.com/user-attachments/assets/3afb67af-2a2d-40d3-816e-df66c591afa5" />
+---
 
 
 
