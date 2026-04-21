@@ -3,7 +3,7 @@ package entidades;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 
-public class Servidor {
+public class  Servidor {
     private Modelo modelo = new Modelo();
 
     public void operar(int puerto) throws Exception {
